@@ -1,0 +1,7 @@
+{
+  "name": "ECO pH - Trợ lý nhận diện chất chỉ thị acid-base",
+  "description": "Camera thông minh hỗ trợ nhận diện màu chỉ thị acid-base, ước tính pH và học tập Hóa học STEM.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
